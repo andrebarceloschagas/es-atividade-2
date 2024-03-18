@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.city {
+    margin: 20px 0;
+}
+.city h2 {
+    color: #333;
+}
+.city p {
+    color: #666;
+}
